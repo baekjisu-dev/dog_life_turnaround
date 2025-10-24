@@ -1,0 +1,23 @@
+header {
+  height: 10vh;
+  padding: 0 20px;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-5);
+}
+
+header h1 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--primary-4);
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
+header h1 b {
+  color: var(--primary-5);
+  font-size: 1.9rem;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}

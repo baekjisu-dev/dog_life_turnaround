@@ -1,0 +1,77 @@
+.button {
+  padding: 10px 20px;
+  color: var(--white);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+/* Primary variants */
+.button--primary-1 {
+  background-color: var(--primary-1);
+  color: var(--gray-4);
+}
+.button--primary-1:hover {
+  background-color: var(--primary-2);
+}
+
+.button--primary-2 {
+  background-color: var(--primary-2);
+  color: var(--gray-4);
+}
+.button--primary-2:hover {
+  background-color: var(--primary-3);
+}
+
+.button--primary-3 {
+  background-color: var(--primary-3);
+}
+.button--primary-3:hover {
+  background-color: var(--primary-4);
+}
+
+.button--primary-4 {
+  background-color: var(--primary-4);
+}
+.button--primary-4:hover {
+  background-color: var(--primary-5);
+}
+
+.button--primary-5 {
+  background-color: var(--primary-5);
+}
+.button--primary-5:hover {
+  background-color: var(--primary-6);
+}
+
+/* Bar variants */
+.button--bar-1 {
+  background-color: var(--bar-1);
+}
+.button--bar-1:hover {
+  background-color: var(--bar-2);
+}
+
+.button--bar-2 {
+  background-color: var(--bar-2);
+}
+.button--bar-2:hover {
+  background-color: var(--bar-4);
+}
+
+.button--bar-3 {
+  background-color: var(--bar-3);
+  color: var(--gray-4);
+}
+.button--bar-3:hover {
+  background-color: var(--bar-5);
+}
+
+.button--bar-4 {
+  background-color: var(--bar-4);
+}
+.button--bar-4:hover {
+  background-color: var(--bar-6);
+}

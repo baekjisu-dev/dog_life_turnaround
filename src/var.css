@@ -1,0 +1,43 @@
+:root {
+  /* Primary Colors */
+  --primary-1: #ffeeee;
+  --primary-2: #c4b8ff;
+  --primary-3: #c78bd0;
+  --primary-4: #a67edb;
+  --primary-5: #9057da;
+  --primary-6: #ab5cb7;
+  --primary-7: #46264b;
+
+  /* Light Colors */
+  --light-1: #fef5f5;
+  --light-2: #f4d7d7;
+  --light-3: #ebdbff;
+
+  /* Gray Colors */
+  --gray-1: #ffffff;
+  --gray-2: #dbdbdb;
+  --gray-3: #bebebe;
+  --gray-4: #222222;
+
+  /* Bar Colors */
+  --bar-1: #ee278f;
+  --bar-2: #399fff;
+  --bar-3: #ffdc4b;
+  --bar-4: #c78bd0;
+  --bar-5: #fef5f5;
+  --bar-6: #f06362;
+  --bar-7: #f6b5b5;
+
+  /* Common Colors */
+  --white: #ffffff;
+  --black: #000000;
+
+  /* Text Colors */
+  --text-primary: var(--gray-4);
+  --text-secondary: var(--gray-3);
+  --text-disabled: var(--gray-2);
+
+  /* Background Colors */
+  --background-default: var(--white);
+  --background-paper: var(--gray-1);
+}

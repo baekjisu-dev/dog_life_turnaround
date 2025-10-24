@@ -1,0 +1,32 @@
+.completed__content {
+    width: 100%;
+    height: 80vh;
+}
+
+.completed__contentwrap {
+    width: 100%;
+    height: 100%;
+}
+.completed___img {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.completed___img img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+.completed___img p {
+    margin: 50px;
+    font-size: 25px;
+    font-weight: 600;
+    color: #000;
+}
+.info__formBtnWrap {
+    height: 10vh;
+    margin: 0 auto;
+}
